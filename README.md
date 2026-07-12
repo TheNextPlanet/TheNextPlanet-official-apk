@@ -11,9 +11,7 @@
 
 The **The Next Planet APK** brings your favorite entertainment together in one lightweight Android application. Discover trending movies, TV series, live TV, sports, anime, apps, and much more through a fast, modern, and user-friendly experience.
 
-🌎 **Official Website:** https://www.thenextworld.site
-
-📥 **Download APK:** https://www.thenextplanet-official.shop/app/
+📥 **Official APK Download Website:** https://www.thenextworld.site
 
 ---
 

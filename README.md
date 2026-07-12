@@ -53,8 +53,6 @@ The **The Next Planet APK** brings your favorite entertainment together in one l
 
 | Source | Status |
 |---------|--------|
-| https://www.thenextplanet-official.shop/app/ | ✅ Recommended |
-| https://www.tnp57.shop/app/ | ✅ Mirror |
 | https://www.thenextworld.site/ | 🌍 Official Website |
 
 ---
@@ -111,14 +109,9 @@ For additional online privacy, users may choose to use a trusted VPN while brows
 
 # 🌎 Official Links
 
-### Website
+### TNP APK Download Website
 https://www.thenextworld.site/
 
-### APK Download
-https://www.thenextplanet-official.shop/app/
-
-### Mirror Download
-https://www.tnp57.shop/app/
 
 ---
 
